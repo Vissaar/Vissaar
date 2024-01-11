@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MixEatUp](https://github.com/TapAKey2023/MixEatUp)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **ruby on rails, react**
 
