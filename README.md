@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **React, Ruby on Rails**
+- 💬 Ask me about **React, Redux, Ruby on Rails**
 
 - 📫 How to reach me **visarsabani@gmail.com**
 
